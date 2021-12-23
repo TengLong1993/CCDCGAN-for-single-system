@@ -88,3 +88,16 @@ zipp                      3.3.1                      py_0
 zlib                      1.2.11               h7b6447c_3  
 zstd                      1.4.5                h6597ccf_2    conda-forge
 ```
+
+## Decompress the "database.rar" in the "main" folder
+Please make sure that the "database" folder is in the "main" folder, which consists of two folders, i.e., "geometries" and "properties".
+
+## Instructions of running
+1.Train the model first by type "python train_GAN.py" in the terminal. 
+2.The training process is only sucessful after seeing "the training process has finished" in the terminal.
+3.Generate new structures by type "python generate_new_structure.py" in the terminal.
+4.The generation process is only sucessful after seeing "the generation process has finished" in the terminal.
+
+## Notes
+1.Please note that all generated strutures will be overwrite the previous one.
+2.Please also note that at least 100GB hard disk is required during the training process.
