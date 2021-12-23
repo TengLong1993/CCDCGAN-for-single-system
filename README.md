@@ -3,7 +3,9 @@ The purpose of this code is to design new crystal structures of Bi-Se system wit
 
 ## Preparation of the environment
 We use the following environment to run this code, it has been tested by our colleborators as well. Please make sure that you have the same environment as us before running this code, please check them carefully if you have unexpected errors.
-# Name                    Version                   Build  Channel
+
+```vim
+Name                    Version                   Build  Channel
 _libgcc_mutex             0.1                        main  
 _tflow_select             2.1.0                       gpu  
 absl-py                   0.10.0                   py37_0  
@@ -85,3 +87,4 @@ xz                        5.2.5                h7b6447c_0
 zipp                      3.3.1                      py_0  
 zlib                      1.2.11               h7b6447c_3  
 zstd                      1.4.5                h6597ccf_2    conda-forge
+```
