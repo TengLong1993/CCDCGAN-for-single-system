@@ -94,10 +94,14 @@ Please make sure that the "database" folder is in the "main" folder, which consi
 
 ## Instructions of running
 1.Train the model first by type "python train_GAN.py" in the terminal. 
+
 2.The training process is only sucessful after seeing "the training process has finished" in the terminal.
+
 3.Generate new structures by type "python generate_new_structure.py" in the terminal.
+
 4.The generation process is only sucessful after seeing "the generation process has finished" in the terminal.
 
 ## Notes
 1.Please note that all generated strutures will be overwrite the previous one.
+
 2.Please also note that at least 100GB hard disk is required during the training process.
