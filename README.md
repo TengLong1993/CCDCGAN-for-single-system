@@ -1,4 +1,4 @@
-# CCDCGAN-for-signle-system
+# CCDCGAN-for-single-system
 The purpose of this code is to design new crystal structures of Bi-Se system with low formation energy. This code is related to the work by T. Long, et al. "Constrained crystals deep convolutional generative adversarial network for the inverse design of crystal structures." npj Computational Materials 7.1 (2021): 1-7. Please feel free to contact the conresponding author Prof. Hongbin Zhang (hzhang@tmm.tu-darmstadt.de) or Teng Long (tenglong@tmm.tu-darmstadt.de) for discussions.
 
 ## Preparation of the environment
